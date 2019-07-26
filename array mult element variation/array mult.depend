@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1542732108 source:/home/roota/Desktop/Threads array mult/array mult/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<pthread.h>
+
+1543338259 source:/home/roota/Desktop/Threads array mult/array mult element variation/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<pthread.h>
+	<sys/time.h>
+
